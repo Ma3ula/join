@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 e540e340e9abd18eaefe29d8d3b3e3f7400e2aad Владимир Лазарев <wolodyx@yandex.ru> 1712061820 +0300	commit (initial): Base commit
+e540e340e9abd18eaefe29d8d3b3e3f7400e2aad e540e340e9abd18eaefe29d8d3b3e3f7400e2aad Владимир Лазарев <wolodyx@yandex.ru> 1712061820 +0300	checkout: moving from main to branching
+e540e340e9abd18eaefe29d8d3b3e3f7400e2aad f09fd128c4f713ad1064d79debbf323868b16814 Владимир Лазарев <wolodyx@yandex.ru> 1712061820 +0300	commit: Branched commit
+f09fd128c4f713ad1064d79debbf323868b16814 e540e340e9abd18eaefe29d8d3b3e3f7400e2aad Владимир Лазарев <wolodyx@yandex.ru> 1712061820 +0300	checkout: moving from branching to main
+e540e340e9abd18eaefe29d8d3b3e3f7400e2aad 73e579ef67811468de540bfd91166dcac7d09b00 Владимир Лазарев <wolodyx@yandex.ru> 1712061820 +0300	commit: Main commit
+73e579ef67811468de540bfd91166dcac7d09b00 73e579ef67811468de540bfd91166dcac7d09b00 Владимир Лазарев <wolodyx@yandex.ru> 1712061820 +0300	reset: moving to HEAD
